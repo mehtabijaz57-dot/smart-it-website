@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Custom Software & Web Development",
+    "num": "/ 01",
+    "hoverImage": "/img/illustrations/600x730_cpb-1.png",
+    "mainImage": "/img/illustrations/1200x800_cpb-1.png"
+  },
+  {
+    "title": "Mobile App & Game Development",
+    "num": "/ 02",
+    "hoverImage": "/img/illustrations/600x730_cpb-2.png",
+   "mainImage": "/img/illustrations/1200x800_cpb-2.png"
+  },
+  {
+    "title": "Artificial Intelligence, Big Data & Automation",
+    "num": "/ 03",
+    "hoverImage": "/img/illustrations/600x730_cpb-3.png",
+   "mainImage": "/img/illustrations/1200x800_cpb-3.png"
+  },
+  {
+    "title": "Cloud, DevOps & Microsoft Solutions",
+    "num": "/ 04",
+    "hoverImage": "/img/illustrations/600x730_cpb-4.png",
+    "mainImage": "/img/illustrations/1200x800_cpb-4.png"
+  },
+  {
+    "title": "Blockchain & Cyber Security",
+    "num": "/ 05",
+    "hoverImage": "/img/illustrations/600x730_cpb-5.png",
+    "mainImage": "/img/illustrations/1200x800_cpb-5.png"
+  },
+  {
+    "title": "IoT & API Integration",
+    "num": "/ 06",
+    "hoverImage": "/img/illustrations/600x730_cpb-7.png",
+    "mainImage": "/img/illustrations/1200x800_cpb-7.png"
+  },
+    {
+    "title": "UI/UX Design, Branding & Digital Marketing",
+    "num": "/ 07",
+    "hoverImage": "/img/illustrations/600x730_cpb-8.png",
+     "mainImage": "/img/illustrations/1200x800_cpb-8.png"
+  },
+    {
+    "title": "Enterprise Solutions (CRM, SAP & Business Systems)",
+    "num": "/ 08",
+    "hoverImage": "/img/illustrations/600x730_cpb-9.png",
+    "mainImage": "/img/illustrations/1200x800_cpb-9.png"
+  }
+]

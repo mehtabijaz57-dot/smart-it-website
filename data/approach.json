@@ -1,0 +1,23 @@
+{"approach1":[
+  {
+    "title": "Architecture Over Assets",
+    "description": "Strategy precedes software. We design the “why” before deploying the “what.”",
+    "icon": "/img/icons/h70_appr-001.webp"
+  },
+  {
+    "title": "Security-First DNA",
+    "description": " In 2026, security isn’t a feature — it’s the foundation. We build for autonomous resilience.",
+    "icon": "/img/icons/h70_appr-002.webp"
+  },
+  {
+    "title": "Operational Fluency",
+    "description": " We modernize without disrupting your business. In-flight upgrades are our specialty. ",
+    "icon": "/img/icons/h70_appr-003.webp"
+  },
+  {
+    "title": "Measurable ROI",
+    "description": "Every initiative must move a business metric — OEE, ARPU, or OpEx reduction.",
+    "icon": "/img/icons/h70_appr-004.webp"
+  }
+]
+}

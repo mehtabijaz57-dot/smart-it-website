@@ -1,0 +1,51 @@
+
+[
+  
+   {
+    "title": "Services",
+    "submenu": [
+      { "label": "Cloud Infrastructure", "href": "cloud-infrastructure-solutions-piller" },
+      { "label": "Application Modernization", "href": "application-modernization-piller" },
+      { "label": "Cybersecurity Service", "href": "Cybersecurity-service-piller" },
+      { "label": "Managed Services", "href": "managed-services-piller" },
+      { "label": "Ai Ml Data Analytics", "href": "ai-ml-data-analytics-piller" },
+      { "label": "Iot Digital Twin", "href": "iot-digital-twin-piller" },
+      { "label": "ERP-Customization", "href": "erp-customization-piller" }
+    ]
+  },
+   {
+    "title": "Industries",
+    "submenu": [
+      { "label": "Fintech & Banking", "href": "it-solutions-fintech-banking" },
+      { "label": "Healthcare & Lifescience", "href": "healthcare-it-solutions" },
+      { "label": "Manufacturing & Supply Chain", "href": "manufacturing-it-solutions" },
+      { "label": "Retail & E-commerce", "href": "retail-and-e-commerce " },
+      { "label": "Telecom & Media", "href": "telecom-and-media" },
+      { "label": "Education/EdTech", "href": "education-it-solutions" },
+      { "label": "Real Estate & Construction", "href": "real-estate" },
+      { "label": "Energy, Oil & Gas", "href": "oil-gas" },
+      { "label": "Public Sector", "href": "government-it-solutions" },
+      { "label": "Transportation & Logistics", "href": "transportation-logistics" }
+    ]
+  },
+   {
+    "title": "Technology Stuck",
+    "submenu": [
+      { "label": "AWS Consulting", "href": "aws-cloud-migration-consulting-services" },
+      { "label": "Microsoft Azure", "href": "microsoft-azure-cloud-migration" },
+      { "label": "Google Cloud Platform", "href": "google-cloud-platform" },
+      { "label": "Salesforce & ServiceNow", "href": "salesforce-implementation-services" },
+      { "label": "SAP S/4HANA", "href": "sap-transformation-services" },
+      { "label": "Modern Web Development", "href": "modern-web-development" }
+      
+    ]
+  },
+   {
+    "title": "About Us",
+    "href": "about-us"
+  },
+  {
+    "title": "Contact Us",
+    "href": "/contact"
+  }
+]

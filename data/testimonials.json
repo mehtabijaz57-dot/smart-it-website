@@ -1,0 +1,58 @@
+[
+  {
+    "authorPhoto": "/img/avatars/300x300_ava-005.webp",
+    "authorPhotoWidth": 300,
+    "authorPhotoHeight": 300,
+    "companyLogo": "/img/brands/logo_smart_it0.png",
+    "companyLogoWidth": 700,
+    "companyLogoHeight": 169,
+    "text": "Smart Information Technology truly exceeded our expectations. Their team understood our vision from day one and delivered a modern, intuitive website that has significantly improved our client engagement.",
+    "projectPage": "#",
+    "authorName": "Sarah Mitchell",
+    "authorPosition": "Senior Product Designer",
+    "authorCompany": "The Way Creative Agency",
+    "authorCompanyUrl": "#"
+  },
+  {
+    "authorPhoto": "/img/avatars/300x300_ava-004.webp",
+    "authorPhotoWidth": 300,
+    "authorPhotoHeight": 300,
+    "companyLogo": "/img/brands/logo_smart_it0.png",
+    "companyLogoWidth": 700,
+    "companyLogoHeight": 169,
+    "text": "The attention to detail, creativity, and technical expertise shown by SmartIT was outstanding. Since launching our new website, we’ve received exceptional feedback from both customers and partners.",
+    "projectPage": "#",
+    "authorName": "Ashley Roberts",
+    "authorPosition": "SEO & Digital Marketing Manager",
+    "authorCompany": "Eye Candy Solutions",
+    "authorCompanyUrl": "#"
+  },
+  {
+    "authorPhoto": "/img/avatars/300x300_ava-006.webp",
+    "authorPhotoWidth": 300,
+    "authorPhotoHeight": 300,
+    "companyLogo": "/img/brands/logo_smart_it0.png",
+    "companyLogoWidth": 700,
+    "companyLogoHeight": 169,
+    "text": "Working with Smart Information Technology was an amazing experience. The process was smooth, transparent, and professional. The final website perfectly reflects our brand identity and business goals.",
+    "projectPage": "#",
+    "authorName": "Daniel Thompson",
+    "authorPosition": "Head of Digital Strategy",
+    "authorCompany": "Instant Design Studio",
+    "authorCompanyUrl": "#"
+  },
+  {
+    "authorPhoto": "/img/avatars/300x300_ava-003.webp",
+    "authorPhotoWidth": 300,
+    "authorPhotoHeight": 300,
+    "companyLogo": "/img/brands/logo_smart_it0.png",
+    "companyLogoWidth": 700,
+    "companyLogoHeight": 169,
+    "text": "The SmartIT team took the time to fully understand our business requirements and transformed them into a beautifully designed, high-performing website. Their professionalism and communication throughout the project were exceptional.",
+    "projectPage": "#",
+    "authorName": "Michael Anderson",
+    "authorPosition": "Brand & Marketing Manager",
+    "authorCompany": "Instant Design Studio",
+    "authorCompanyUrl": "#"
+  }
+]

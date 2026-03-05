@@ -1,0 +1,32 @@
+[
+  {
+    "authorPhoto": "/img/avatars/300x300_ava-001.webp",
+    "authorPhotoWidth": 300,
+    "authorPhotoHeight": 300,
+    "authorName": "Michael Anderson",
+    "authorPosition": "Chief Information Officer",
+    "authorCompany": "",
+    "authorCompanyUrl": "#",
+    "rating": 5,
+    "text": "Smart Information Technologies delivered a seamless cloud migration through strategic planning and disciplined management, ensuring zero operational disruption.",
+    "projectPage": "#",
+    "testimonialImage": "/img/testimonials/1400x1200_t00001.webp",
+    "testimonialImageWidth": 1433,
+    "testimonialImageHeight": 1200
+  },
+  {
+    "authorPhoto": "/img/avatars/300x300_ava-004.webp",
+    "authorPhotoWidth": 300,
+    "authorPhotoHeight": 300,
+    "authorName": "Alex Tomato",
+    "authorPosition": "Financial Technology Enterprise",
+    "authorCompany": "",
+    "authorCompanyUrl": "#",
+    "rating": 5,
+    "text": "Smart Information Technologies mitigated our compliance risks through a security-first architecture and sovereign cloud strategy.",
+    "projectPage": "#",
+    "testimonialImage": "/img/testimonials/1400x1200_t002.webp",
+    "testimonialImageWidth": 1433,
+    "testimonialImageHeight": 1200
+  }
+]

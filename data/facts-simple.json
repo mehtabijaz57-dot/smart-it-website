@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "number": 1000,
+    "suffix": "+",
+    "description": "IT Ninjas delivering excellence globally",
+    "image": "/img/icons/h70_stats-1.webp",
+    "imageWidth": 311,
+    "imageHeight": 280,
+    "counterId": "stats-counter-1"
+  },
+  {
+    "id": 2,
+    "number": 7,
+    "suffix": "+",
+    "description": "Years of professional experience ",
+    "image": "/img/icons/h70_stats-2.webp",
+    "imageWidth": 280,
+    "imageHeight": 280,
+    "counterId": "stats-counter-2"
+  },
+  {
+    "id": 3,
+    "number":1000,
+    "suffix": "+",
+    "description": "Successfully completed projects.",
+    "image": "/img/icons/h70_stats-003.png",
+    "imageWidth": 280,
+    "imageHeight": 280,
+    "counterId": "stats-counter-3"
+  },
+  {
+    "id": 4,
+    "number":10,
+    "suffix": "+",
+    "description": " Billion Client revenues generated.",
+    "image": "/img/icons/h70_stats-004.png",
+    "imageWidth": 274,
+    "imageHeight": 280,
+    "counterId": "stats-counter-4"
+  }
+]

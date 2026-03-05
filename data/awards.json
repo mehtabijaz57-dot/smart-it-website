@@ -1,0 +1,38 @@
+[
+  {
+    "title": "AWS Cloud Migration",
+    "url": "aws-cloud-migration-consulting-services",
+    "image": "/img/works/preview/600x600_prv-001.webp",
+    "imageWidth": 601,
+    "imageHeight": 600,
+    "tags": ["Enterprise ", " Mid-Market Organizations"],
+    "date": "2025"
+  },
+  {
+    "title": "Microsoft Azure Cloud Migration",
+    "url": "microsoft-azure-cloud-migration",
+    "image": "/img/works/preview/600x600_prv-002.webp",
+    "imageWidth": 600,
+    "imageHeight": 601,
+    "tags": ["Cloud Migration ", " Modernization"],
+    "date": "2024"
+  },
+  {
+    "title": "Google Cloud Platform",
+    "url": "google-cloud-platform",
+    "image": "/img/works/preview/600x600_prv-003.webp",
+    "imageWidth": 600,
+    "imageHeight": 600,
+    "tags": ["Google Cloud (GCP) Migration", ""],
+    "date": "2024"
+  },
+  {
+    "title": "Salesforce Implementation Services",
+    "url": "salesforce-implementation-services",
+    "image": "/img/works/preview/600x600_prv-004.webp",
+    "imageWidth": 600,
+    "imageHeight": 600,
+    "tags": ["Salesforce Implementation ", "Automation"],
+    "date": "2024"
+  }
+]

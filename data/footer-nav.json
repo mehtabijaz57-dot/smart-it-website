@@ -1,0 +1,27 @@
+[
+  {
+    "label": "Home",
+    "href": "#"
+  },
+   {
+    "label": "Blog",
+    "href": "blog-standard"
+  },
+  {
+    "label": "Works",
+    "href": "works-simple"
+  },
+  {
+    "label": "Services",
+    "href": "services"
+  },
+  {
+    "label": "Our Team",
+    "href": "team"
+  },
+  {
+    "label": "Contact",
+    "href": "contact"
+  }
+
+]
